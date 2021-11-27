@@ -1,3 +1,3 @@
-# MM209-Programming-Assignmnet
+# MM209-Programming-Assignment
 
 Stability Analysis of Iron Ores
